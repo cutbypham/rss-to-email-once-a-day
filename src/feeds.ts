@@ -8,4 +8,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCqb-IU-JKgCg2aqZw3gJafQ',
   // Natalie Lynn
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCkjrBN_GAjFJyVvjcI07KkQ',
+  // Di Hay Đi
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UChQqVI5-nWM9tmP5IryWEWQ',
 ]
