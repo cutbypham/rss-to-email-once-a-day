@@ -10,4 +10,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCkjrBN_GAjFJyVvjcI07KkQ',
   // Di Hay Đi
   'https://www.youtube.com/feeds/videos.xml?channel_id=UChQqVI5-nWM9tmP5IryWEWQ',
+  // Jimmy Kim
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCOU2PEQuXiz4JsfEtW3frhA',
 ]
