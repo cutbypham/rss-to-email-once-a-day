@@ -12,4 +12,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UChQqVI5-nWM9tmP5IryWEWQ',
   // Jimmy Kim
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCOU2PEQuXiz4JsfEtW3frhA',
+    // Creative Video Tips | davinci resolve
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UC6TDwXA0UhifKuBzqLZAqHg',
 ]
