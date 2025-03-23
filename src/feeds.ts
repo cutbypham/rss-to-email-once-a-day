@@ -20,4 +20,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCo4K5kzinPI9AHRDp_V4T0w',
     // Long Huỳnh
    'https://www.youtube.com/feeds/videos.xml?channel_id=UCc8ujKhuBXclWlm49yd7Plw',
+    // THỎ BẢY MÀU
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCqb-IU-JKgCg2aqZw3gJafQ',
 ]
