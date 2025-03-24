@@ -18,8 +18,10 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCTmY-LBmbLugkJ0ryZfjZTQ',
   //Chad Kubanoff
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCo4K5kzinPI9AHRDp_V4T0w',
-    // Long Huỳnh
-   'https://www.youtube.com/feeds/videos.xml?channel_id=UCc8ujKhuBXclWlm49yd7Plw',
-    // THỎ BẢY MÀU
-    'https://www.youtube.com/feeds/videos.xml?channel_id=UCqb-IU-JKgCg2aqZw3gJafQ',
+  // Long Huỳnh
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCc8ujKhuBXclWlm49yd7Plw',
+  // THỎ BẢY MÀU
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCqb-IU-JKgCg2aqZw3gJafQ',
+  // Tricky Prolix, video editor
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCdroOgO1Hn90pqBrTvsuX4A',
 ]
