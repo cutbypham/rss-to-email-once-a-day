@@ -24,4 +24,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCqb-IU-JKgCg2aqZw3gJafQ',
   // Tricky Prolix, video editor
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCdroOgO1Hn90pqBrTvsuX4A',
+// Wampus, video editor
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCrTufzp1J315kdnf_nzy6iQ',
 ]
