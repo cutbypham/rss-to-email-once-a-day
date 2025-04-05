@@ -32,4 +32,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UClMkagB7TmoXeFJ_9YOv-Rw',
   // Probably Riding
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCQEDB9BVgbMKF8gaOW75WGQ',
+  // Digital Spaghetti
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCTdsYrCpF2zRKWWL0SkaOtA',
 ]
