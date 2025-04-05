@@ -28,4 +28,6 @@ export const feeds = [
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCrTufzp1J315kdnf_nzy6iQ',
     // FutureCanoe
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCF3jMqkgvFRb6KBbSfsFFtQ',
+// Đấy Chấm Than
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UClMkagB7TmoXeFJ_9YOv-Rw',
 ]
