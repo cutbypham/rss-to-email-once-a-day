@@ -36,4 +36,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCTdsYrCpF2zRKWWL0SkaOtA',
   // Minh Cycling Lee
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCYSVPcOCjENxwy5j5ew0hUg',
+  // Digital Spaghetti
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCTdsYrCpF2zRKWWL0SkaOtA',
 ]
