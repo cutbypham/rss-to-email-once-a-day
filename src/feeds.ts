@@ -18,4 +18,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCpp3cHR9TWVyXqL1AVw4XkA',
   // Đấy Chấm Than
   'https://www.youtube.com/feeds/videos.xml?channel_id=UClMkagB7TmoXeFJ_9YOv-Rw',
+  // CRAZY BROKE ASIAN
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCQDjC9axwfSnYUuO5_d0xYg',
 ]
